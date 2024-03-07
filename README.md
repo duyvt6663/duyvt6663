@@ -1,22 +1,22 @@
-# 🤪Hiep Truong🥴
+# Le Khanh Duy
 
 [![MasterHead](banner.png?)](https://github.com/hieptth)
 
-**`Software Engineer` `Co-designer`**
+**`Research Scientist` `AI-ML engineer`**
 
 <p style="text-align: justify;text-justify: inter-word;">
 I'm a newbie in the web development industry learning to build my version of digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
 </p>
 <p align="left">
 
-<a href="https://github.com/hieptth?tab=followers">
-  <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/hieptth?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/>
+<a href="https://github.com/duyvt6663?tab=followers">
+  <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/duyvt6663?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/>
 </a>
-<a href="https://github.com/hieptth?tab=repositories&sort=stargazers">
-  <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/hieptth?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+<a href="https://github.com/duyvt6663?tab=repositories&sort=stargazers">
+  <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/duyvt6663?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
 </a>
-<a href="https://github.com/hieptth">
-  <img alt="views" title="Profile Views" src="https://komarev.com/ghpvc/?username=hieptth&style=for-the-badge">
+<a href="https://github.com/duyvt6663">
+  <img alt="views" title="Profile Views" src="https://komarev.com/ghpvc/?username=duyvt6663&style=for-the-badge">
 </a>
 
 </p>
