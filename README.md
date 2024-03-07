@@ -5,7 +5,7 @@
 **`Research Scientist` `AI-ML engineer`**
 
 <p style="text-align: justify;text-justify: inter-word;">
-I am a rising AI researcher/engineer with focus in Natural Language Processing and Deep Learning.
+I am a rising AI research scientist/engineer with focus on Natural Language Processing and Deep Learning.
 </p>
 <p align="left">
 
